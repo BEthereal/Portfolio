@@ -5,7 +5,6 @@ import AnimatedText from "../components/AnimatedText";
 import Link from "next/link";
 import Image from "next/image";
 import { GithubIcon } from "../components/icons";
-// import project1 from "../public/images/projects/crypto-screener-cover-image.jpg";
 import solana from "../public/images/projects/solana.jpg";
 import portfolio from "../public/images/projects/portfolio.jpg";
 import speak from "../public/images/projects/speak.jpg";
@@ -108,7 +107,7 @@ const projects = () => {
                 img={portfolio}
                 type="Featured Project"
                 github="https://github.com/BEthereal/Portfolio"
-                link="https://portfolio-liard-nine-80.vercel.app/"
+                link="https://portfolio-bethereal.vercel.app/"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">           
