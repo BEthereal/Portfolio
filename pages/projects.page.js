@@ -107,8 +107,8 @@ const projects = () => {
                 title="Portfolio Website"
                 img={portfolio}
                 type="Featured Project"
-                github="https://github.com/John840001/jonathan-duarte-dev"
-                link="https://jonathan-duarte.vercel.app/"
+                github="https://github.com/BEthereal/Portfolio"
+                link="https://portfolio-liard-nine-80.vercel.app/"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">           
